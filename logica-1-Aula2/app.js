@@ -1,4 +1,4 @@
-//Variables
+//Variables condiciones y concatenamiento
 let numeroSecreto = 2;
 let numeroUsuario = prompt("Me indicas un número entre 1 y 10 por favor:");
 
